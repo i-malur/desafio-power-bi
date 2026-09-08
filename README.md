@@ -61,5 +61,14 @@ Para garantir total consistência e performance no Power BI, os dados brutos for
 * **Tempo detalhado de separação (*Pick & Pack*):** Para isolar a responsabilidade do atraso (demora do vendedor vs. atraso da transportadora).
 * **Volume de chamados no SAC e cancelamentos:** Para mensurar o custo operacional direto provocado pelos atrasos nas entregas.
 
-## 🖥️ Dashboard Interativo
+## Dashboard interativo
 [Dashboard OlistLog Analytics](https://app.powerbi.com/view?r=eyJrIjoiM2U3OThiODMtM2VlZC00NDI0LThiOTAtOTNjNDZlNjg1NTBlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+## Tecnologias usadas
+![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+```py
+print('Feito com ❤️')
+```
