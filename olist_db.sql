@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS olist_db;
+USE olist_db;
