@@ -1,9 +1,8 @@
 # 📊 OlistLog Analytics | Executive Report
-> **Relatório Gerencial de Performance Logística & Satisfação do Cliente**
 
----
+Relatório gerencial de performance logística & satisfação do cliente. Esse relatório foi criado como atividade do desafio de Power BI da Womakers Code.
 
-## 📈 KPIs Consolidados
+## KPIs Consolidados
 
 | Faturamento Total | Total de Pedidos | Tempo Médio de Entrega | Taxa de Atraso | Nota Média (CSAT) |
 | :---: | :---: | :---: | :---: | :---: |
@@ -53,10 +52,14 @@ Para garantir total consistência e performance no Power BI, os dados brutos for
 
 ### 3.3 Duas Primeiras Ações Imediatas
 * **Ação 1 — Notificação e SLA rígido de postagem (24h):** Exigir um prazo máximo de 24 horas úteis para postagem das mercadorias pelos vendedores localizados no Sul e Sudeste.
-* **Ação 2 — Revisão de parceiros logísticos no RJ:** Abrir cotação imediata com novos operadores logísticos e transportadoras com foco de atuação na região metropolitana do RJ. 
-  > *Nota de Análise:* No ranking de atrasos do dashboard, os piores estados eram do Norte e Nordeste, regiões distantes do centro de distribuição da maioria dos vendedores (SP/PR). Entretanto, o Rio de Janeiro é vizinho de São Paulo (o estado com o maior número de vendedores) e, mesmo assim, apresentou uma taxa de atraso alarmante de **13,47%**. Para a região Sudeste, uma taxa acima de 10% é considerada crítica, pois a proximidade geográfica deveria garantir prazos curtos (3 a 5 dias) e alta eficiência.
+* **Ação 2 — Revisão de parceiros logísticos no RJ:** Abrir cotação imediata com novos operadores logísticos e transportadoras com foco de atuação na região metropolitana do RJ.  
+
+  > *OBS:* No ranking de atrasos do dashboard, os piores estados eram do Norte e Nordeste, regiões distantes do centro de distribuição da maioria dos vendedores (SP/PR). Entretanto, o Rio de Janeiro é vizinho de São Paulo (o estado com o maior número de vendedores) e, mesmo assim, apresentou uma taxa de atraso alarmante de **13,47%**. Para a região Sudeste, uma taxa acima de 10% é considerada crítica, pois a proximidade geográfica deveria garantir prazos curtos (3 a 5 dias) e alta eficiência.
 
 ### 3.4 Informações Adicionais para Aprofundar a Análise
 * **Custo unitário do frete (R$):** Para calcular a margem de contribuição real por região e produto.
 * **Tempo detalhado de separação (*Pick & Pack*):** Para isolar a responsabilidade do atraso (demora do vendedor vs. atraso da transportadora).
 * **Volume de chamados no SAC e cancelamentos:** Para mensurar o custo operacional direto provocado pelos atrasos nas entregas.
+
+## 🖥️ Dashboard Interativo
+[Dashboard OlistLog Analytics](https://app.powerbi.com/view?r=eyJrIjoiM2U3OThiODMtM2VlZC00NDI0LThiOTAtOTNjNDZlNjg1NTBlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
